@@ -94,10 +94,6 @@
     "wait-on": "7.2.0",
     "webdriver-manager": "12.1.9"
   },
-  "engines": {
-    "node": ">= 22.0.0",
-    "typescript": ">= 5.8.0 < 5.9.0"
-  },
   "browserslist": [
     "chrome 136"
   ]
